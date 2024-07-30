@@ -38,3 +38,7 @@ python train.py
 ```
 python test.py
 ```
+
+
+### Project 설명 페이지
+https://chunsikk.tistory.com/8
